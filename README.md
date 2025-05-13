@@ -68,7 +68,7 @@ Berikut adalah penjelasan masing-masing visualisasi yang terdapat dalam dashboar
 ## Menjalankan Sistem Machine Learning
 Langkah-langkah menggunakan sistem machine learning berbasis Extra Trees Classifier	adalah sebagai berikut.
 
-1. Membuka link: https://proyekpertamapenerapandatascientist-tfu5teeltmgmxw4tdsbtfv.streamlit.app/
+1. Membuka link: https://academics-insight-jaya-jaya-institute-by-zainal.streamlit.app/
 
 2. Tampilan Awal
 <center><img src="image\home.jpg" alt="alt text" width="whatever" height="whatever"></center>
