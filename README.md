@@ -75,7 +75,7 @@ Langkah-langkah menggunakan sistem machine learning berbasis Extra Trees Classif
 
 3. Memilih "Predict Massal" pada taskbar di sisi kiri.
 
-<center><img src="image\menu.png" alt="alt text" width="whatever" height="whatever"></center>
+<center><img src="image\menu.jpg" alt="alt text" width="whatever" height="whatever"></center>
 
 3. Tekan tombol **Browse File** untuk mengupload file dataset.
 
